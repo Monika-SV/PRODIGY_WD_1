@@ -1,1 +1,1 @@
-# PRODIGY_WD_1
+This project features an interactive navigation menu that changes color or style on hover and scroll events. It is structured using HTML, styled with CSS, and made interactive with JavaScript, enhancing user experience through visual feedback.
